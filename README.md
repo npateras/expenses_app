@@ -7,9 +7,9 @@
 </p>
 
 <p float="left">
-  <img src="https://i.ibb.co/h27FKpS/Screenshot-20230928-113602.png" width="30%" height="30%">
-  <img src="https://i.ibb.co/tMDDJpS/Screenshot-20230928-113553.png" width="30%" height="30%">
-  <img src="https://i.ibb.co/qyS4c99/Screenshot-20230928-113608.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/h27FKpS/Screenshot-20230928-113602.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/tMDDJpS/Screenshot-20230928-113553.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/qyS4c99/Screenshot-20230928-113608.png" width="30%" height="30%">
 </p>
 
 <p align="center">
