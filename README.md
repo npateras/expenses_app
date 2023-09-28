@@ -6,7 +6,7 @@
   <img src="https://i.ibb.co/0rCXVYM/Screenshot-20230928-113547.png" width="30%" height="30%">
 </p>
 
-<p float="left">
+<p align="center" float="left">
   <img align="top" src="https://i.ibb.co/h27FKpS/Screenshot-20230928-113602.png" width="30%" height="30%">
   <img align="top" src="https://i.ibb.co/tMDDJpS/Screenshot-20230928-113553.png" width="30%" height="30%">
   <img align="top" src="https://i.ibb.co/qyS4c99/Screenshot-20230928-113608.png" width="30%" height="30%">
