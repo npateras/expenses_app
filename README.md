@@ -1,9 +1,9 @@
 # expenses_app
 
-<p float="left">
-  <img src="https://i.ibb.co/J2kSKqv/Screenshot-20230927-164752.png" width="30%" height="30%">
-  <img src="https://i.ibb.co/0jdzxQ8/Screenshot-20230928-113630.png" width="30%" height="30%">
-  <img src="https://i.ibb.co/0rCXVYM/Screenshot-20230928-113547.png" width="30%" height="30%">
+<p align="center" float="left">
+  <img align="top" src="https://i.ibb.co/J2kSKqv/Screenshot-20230927-164752.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/0jdzxQ8/Screenshot-20230928-113630.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/0rCXVYM/Screenshot-20230928-113547.png" width="30%" height="30%">
 </p>
 
 <p align="center" float="left">
