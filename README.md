@@ -12,4 +12,4 @@
   <img src="https://i.ibb.co/qyS4c99/Screenshot-20230928-113608.png" width="30%" height="30%">
 </p>
 
-<img src="https://i.ibb.co/PZrBL9g/Screenshot-20230928-113530.png" width="30%" height="30%">
+<img src="https://i.ibb.co/PZrBL9g/Screenshot-20230928-113530.png" width="80%" height="40%">
