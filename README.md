@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/PZrBL9g/Screenshot-20230928-113530.png" width="80%" height="40%">
+  <img align="top" src="https://i.ibb.co/PZrBL9g/Screenshot-20230928-113530.png" width="80%" height="40%">
 </p>
